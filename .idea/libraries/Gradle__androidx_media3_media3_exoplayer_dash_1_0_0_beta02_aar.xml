@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media3:media3-exoplayer-dash:1.0.0-beta02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eda634f5395877d9929b8917fe7d1e9c/transformed/media3-exoplayer-dash-1.0.0-beta02/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9b269bf77686f145b34cd4a75ee40902/transformed/media3-exoplayer-dash-1.0.0-beta02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eda634f5395877d9929b8917fe7d1e9c/transformed/media3-exoplayer-dash-1.0.0-beta02/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eda634f5395877d9929b8917fe7d1e9c/transformed/media3-exoplayer-dash-1.0.0-beta02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eda634f5395877d9929b8917fe7d1e9c/transformed/media3-exoplayer-dash-1.0.0-beta02/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media3/media3-exoplayer-dash/1.0.0-beta02/e41f5eec7d1dd5aaf5085a11d1e14dd48acd8438/media3-exoplayer-dash-1.0.0-beta02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

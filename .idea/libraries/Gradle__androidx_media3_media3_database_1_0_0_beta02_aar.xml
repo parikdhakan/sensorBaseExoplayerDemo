@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media3:media3-database:1.0.0-beta02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6fbeb7e3dd6e3e4c99ac63b4fc4b08aa/transformed/media3-database-1.0.0-beta02/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/829ffbd5fd7acb01e826d71efc0cc44e/transformed/media3-database-1.0.0-beta02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6fbeb7e3dd6e3e4c99ac63b4fc4b08aa/transformed/media3-database-1.0.0-beta02/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6fbeb7e3dd6e3e4c99ac63b4fc4b08aa/transformed/media3-database-1.0.0-beta02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6fbeb7e3dd6e3e4c99ac63b4fc4b08aa/transformed/media3-database-1.0.0-beta02/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.media3/media3-database/1.0.0-beta02/befa50d2c217a9f7f90345907147674a9d3051e3/media3-database-1.0.0-beta02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
